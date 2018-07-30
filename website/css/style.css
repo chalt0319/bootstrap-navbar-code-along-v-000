@@ -1,0 +1,22 @@
+img, video, audio, iframe, table, form {
+  width: 100%; /* IE */
+  max-width: 100%; /* FF, Safari, Chrome */
+}
+
+.twit {
+  position: absolute;
+  top: 0.5em;
+  right: 1em;
+}
+
+.fbook {
+  position: absolute;
+  top: 0.5em;
+  right: 5em;
+}
+
+.gplus {
+  position: absolute;
+  top: 0.5em;
+  right: 10.4em;
+}
